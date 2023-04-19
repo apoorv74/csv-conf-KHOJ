@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: >-
+  A community driven initiative to crowdsource background details of 1,700 High Court Judges in India.
+message: >-
+  If you reference this talk, please cite it using the metadata
+  from this file.
+type: talk
+authors:
+  - given-names: Apoorv
+    family-names: Anand
+    email: apoorv7491@gmail.com
+    affiliation: 'Project Lead, Justice Hub'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7847627
+    description: Archived copy of my talk from CSV Conf 2023 in Buenos Aires
+keywords:
+  - data on judges
+  - crowd source
+  - public data
+  - open justice
+  - open data
+license: CC-BY-4.0
+date-released: '2023-04-19'
